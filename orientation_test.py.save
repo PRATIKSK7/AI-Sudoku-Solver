@@ -1,0 +1,29 @@
+import cv2
+import numpy as np
+from tensorflow.keras.models import load_model
+
+model = load_model("models/sudoku_digit_model.h5")
+
+img = cv2.imread("debug/cnn_input/cnn_01.png", 0)
+
+variants = {
+    "normal": img,
+    "invert": 255 - img,
+    "flipud": cv2.flip(img, 0),
+    "fliplr": cv2.flip(img, 1),
+    "rot90": cv2.rotate(img, cv2.ROTATE_90_CLOCKWISE),
+    "rot180": cv2.rotate(img, cv2.ROTATE_180),
+    "rot270": cv2.rotate(img, cv2.ROTATE_90_COUNTERCLOCKWISE),
+}
+
+for name, im in variants.items():
+    x = im.astype("float32") / 255.0
+    x = x.reshape(1, 28, 28, 1)
+
+    pred = model.predict(x, verbose=0)[0]
+
+    digit = np.argmax(pred)
+    conf = np.max(pred)
+
+    print(f"{name:10s} -> digit={digit} confidence={conf:.6f}")
+

@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables
+.env
+.env.local
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+logs/
+.pytest_cache/
+datasets/
+dataset/
+captures/
+debug/
+outputs/
+streamlit.log
+
+# Mac OS
+.DS_Store
+
+# Ignore large model files if necessary (we'll keep models/ in since they're needed, unless they are huge)
+# *.h5
+# *.keras
