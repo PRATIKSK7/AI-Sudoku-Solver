@@ -159,7 +159,7 @@ I am a passionate AI Engineer specializing in Machine Learning, Computer Vision,
 
 * 💼 **LinkedIn:** [Pratik S Kanoj](https://www.linkedin.com/in/pratik-s-kanoj-a81432300/)
 * 🐙 **GitHub:** [github.com/PRATIKSK7](https://github.com/PRATIKSK7)
-* ✉️ **Email:** Reach out via LinkedIn for direct contact.
+* ✉️ **Email:** [pratiksk0077@gmail.com](mailto:pratiksk0077@gmail.com)
 
 *If you found this project interesting or helpful, please consider giving it a ⭐ on GitHub!*
 
