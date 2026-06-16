@@ -141,13 +141,27 @@ python training/train_model.py
 
 ---
 
-## 👨‍💻 About the Author
+## 👨‍💻 Author Section
 
 **Pratik S Kanoj**
 
-A passionate AI enthusiast and developer focused on building production-grade machine learning pipelines, computer vision applications, and full-stack software.
+**Artificial Intelligence & Data Science Engineer**
 
-* GitHub: [@PRATIKSK7](https://github.com/PRATIKSK7)
+I am a passionate AI Engineer specializing in Machine Learning, Computer Vision, and full-stack integration. I build robust, production-ready AI systems that solve real-world problems. My expertise lies in taking complex Deep Learning architectures and deploying them into scalable, user-centric web applications.
+
+**Technical Expertise:**
+
+* **AI & Data Science:** Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, MLOps, Data Science.
+* **Backend & Cloud:** Python, FastAPI, Docker, RESTful APIs.
+* **Frontend:** React, JavaScript, HTML, CSS, Streamlit.
+
+**Connect with me:**
+
+* 💼 **LinkedIn:** [Pratik S Kanoj](https://www.linkedin.com/in/pratik-s-kanoj-a81432300/)
+* 🐙 **GitHub:** [github.com/PRATIKSK7](https://github.com/PRATIKSK7)
+* ✉️ **Email:** Reach out via LinkedIn for direct contact.
+
+*If you found this project interesting or helpful, please consider giving it a ⭐ on GitHub!*
 
 ---
 
