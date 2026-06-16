@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🧩 AI Sudoku Solver</h1>
   <p>
-    <strong>An end-to-end, production-grade AI pipeline for solving Sudoku puzzles from images.</strong>
+    <strong>An end-to-end, production-grade AI pipeline that bridges Computer Vision, Deep Learning, and classic algorithms to automatically read and solve Sudoku puzzles from standard images. Built with an intuitive Streamlit frontend and a highly performant FastAPI backend, it processes images, extracts digits using a custom-trained Convolutional Neural Network, and instantly returns the solved puzzle using an optimized backtracking algorithm.</strong>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
