@@ -12,10 +12,6 @@
   </p>
 </div>
 
-<div align="center">
-  <!-- TODO: Add your screenshots here. You can drop them in the 'assets/' folder and update these filenames. -->
-  <img src="assets/your_screenshot_1.png" alt="App Screenshot 1" width="400"/>
-  <img src="assets/your_screenshot_2.png" alt="App Screenshot 2" width="400"/>
 </div>
 
 ---
@@ -44,6 +40,17 @@ Whether it's a newspaper clipping or a screenshot, simply upload the image to ou
 3. **Digit Classification**: Each non-empty cell is fed into our pre-trained CNN model to predict the digit (1-9).
 4. **Algorithmic Solving**: The parsed 9x9 matrix is passed to a backtracking algorithm which computes the final solution.
 5. **Result Generation**: The completed puzzle is visually reconstructed and returned to the user.
+
+### 📸 Pipeline Visualization
+
+<!-- TODO: Update these filenames with your 8 screenshots in the 'assets/' folder -->
+| Step 1 | Step 2 | Step 3 | Step 4 |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/screenshot_1.png" width="200"/> | <img src="assets/screenshot_2.png" width="200"/> | <img src="assets/screenshot_3.png" width="200"/> | <img src="assets/screenshot_4.png" width="200"/> |
+
+| Step 5 | Step 6 | Step 7 | Step 8 |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/screenshot_5.png" width="200"/> | <img src="assets/screenshot_6.png" width="200"/> | <img src="assets/screenshot_7.png" width="200"/> | <img src="assets/screenshot_8.png" width="200"/> |
 
 ---
 
