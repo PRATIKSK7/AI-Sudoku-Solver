@@ -12,6 +12,11 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="assets/original_grid.png" alt="Original Image" width="400"/>
+  <img src="assets/final_result.png" alt="Solved Image" width="400"/>
+</div>
+
 ---
 
 ## 🌟 Overview
@@ -52,17 +57,16 @@ Whether it's a newspaper clipping or a screenshot, simply upload the image to ou
 │   ├── perspective.py      # Homography and unwarping scripts
 │   ├── segmentation.py     # Grid slicing into 81 cells
 │   └── solver.py           # Backtracking solver logic
+├── assets/                 # 🖼️ Images and Screenshots for documentation
 ├── backend/                # ⚡ FastAPI application
 │   └── main.py             # API endpoints
 ├── frontend/               # 🎨 Streamlit application
 │   └── app.py              # Web UI
 ├── models/                 # 💾 Pre-trained Neural Networks
 │   └── sudoku_digit_model.h5
+├── scripts/                # 🛠️ Utility and Evaluation Scripts
+│   └── evaluation/         # Testing and benchmarking scripts
 ├── tests/                  # 🧪 Comprehensive Pytest suite
-│   ├── test_api.py
-│   ├── test_classifier.py
-│   ├── test_detector.py
-│   └── ...
 ├── training/               # 🏋️ ML Training & Fine-tuning scripts
 │   └── train_model.py
 ├── Dockerfile              # 🐳 Docker configuration
