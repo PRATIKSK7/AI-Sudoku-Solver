@@ -141,6 +141,16 @@ python training/train_model.py
 
 ---
 
+## 👨‍💻 About the Author
+
+**Pratik S Kanoj**
+
+A passionate AI enthusiast and developer focused on building production-grade machine learning pipelines, computer vision applications, and full-stack software.
+
+* GitHub: [@PRATIKSK7](https://github.com/PRATIKSK7)
+
+---
+
 <div align="center">
   <i>Built with ❤️ using Python, OpenCV, and Deep Learning.</i>
 </div>
