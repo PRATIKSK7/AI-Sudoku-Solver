@@ -13,8 +13,9 @@
 </div>
 
 <div align="center">
-  <img src="assets/original_grid.png" alt="Original Image" width="400"/>
-  <img src="assets/final_result.png" alt="Solved Image" width="400"/>
+  <!-- TODO: Add your screenshots here. You can drop them in the 'assets/' folder and update these filenames. -->
+  <img src="assets/your_screenshot_1.png" alt="App Screenshot 1" width="400"/>
+  <img src="assets/your_screenshot_2.png" alt="App Screenshot 2" width="400"/>
 </div>
 
 ---
